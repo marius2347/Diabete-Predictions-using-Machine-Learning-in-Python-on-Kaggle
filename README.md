@@ -17,6 +17,10 @@
 <b> Machine Learning: https://bit.ly/machine-learning-certification <b>
 <br>
 
+<h2> Link </h2>
+<b> Kaggle: https://www.kaggle.com/datasets/shantanudhakadd/diabetes-dataset-for-beginners </b>
+<br>
+
 <h2>Photo</h2>
 <img src="photo.png">
 <br>
