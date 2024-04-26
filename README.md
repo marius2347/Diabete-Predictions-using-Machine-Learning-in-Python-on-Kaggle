@@ -4,6 +4,7 @@
 <ul>
     <li>The objective of the dataset is to diagnostically predict whether or not a patient has diabetes</li>
     <li>Scaled the features using StandardScaler</li>
+    <li>Data visualization with histograms</li>
     <li>SVM: 81% using GridSearchCV </li>
     <li>Logistic Regression: 80% using GridSearchCV </li>
     <li>KNN: 72% using GridSearchCV </li>
