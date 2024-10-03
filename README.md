@@ -1,4 +1,4 @@
-<h1>Diabete Predictions using Machine Learning in Python on Kaggle</h1>
+<h1>Predicting Diabetes using Machine Learning in Python on Kaggle</h1>
 <br>
 <h2>Features</h2>
 <ul>
